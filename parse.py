@@ -25,10 +25,3 @@ for package in packages_json[:5]:
         break
 with open('install_info', 'w') as file:
     json.dump(result, file, indent=2)
-
-
-
-
-
-
-
