@@ -1,0 +1,37 @@
+[
+  {
+    "name": "a2ps",
+    "desc": "Any-to-PostScript filter",
+    "intalls_30d": 95,
+    "intalls_90d": 322,
+    "intalls_365d": 1281
+  },
+  {
+    "name": "a52dec",
+    "desc": "Library for decoding ATSC A/52 streams (AKA 'AC-3')",
+    "intalls_30d": 107,
+    "intalls_90d": 211,
+    "intalls_365d": 816
+  },
+  {
+    "name": "aacgain",
+    "desc": "AAC-supporting version of mp3gain",
+    "intalls_30d": 53,
+    "intalls_90d": 142,
+    "intalls_365d": 662
+  },
+  {
+    "name": "aalib",
+    "desc": "Portable ASCII art graphics library",
+    "intalls_30d": 154,
+    "intalls_90d": 404,
+    "intalls_365d": 1806
+  },
+  {
+    "name": "aamath",
+    "desc": "Renders mathematical expressions as ASCII art",
+    "intalls_30d": 17,
+    "intalls_90d": 45,
+    "intalls_365d": 273
+  }
+]
